@@ -103,7 +103,7 @@ gallery.onclick = (e) => {
         }
     };
     document.addEventListener('keydown', handleKeydown);
-}ж
+};
 
 
 
